@@ -1,6 +1,6 @@
-Privatecoin
+Persiancoin
 ==================
-Privatecoin is a truly anonymous coin and also provides much faster and cheaper transfer compare to bitcoin;
+Persiancoin is a truly anonymous coin and also provides much faster and cheaper transfer compare to bitcoin;
 so its gonna overtake bitcoin soon or late!
 other advantages:
  -perfect coin to mine with cpu or gpu!
